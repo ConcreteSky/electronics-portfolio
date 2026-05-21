@@ -10,3 +10,5 @@
 
 ### Academia.edu
 - [Published Document](https://www.academia.edu/167364062/Project_2_6_Smart_Light_Activated_Relay_System_with_Arduino_Student_Murad_Shirinov_Course_Electronics_and_Embedded_Systems_Project_Level_2_6_Individual_Portfolio_Work)
+### Notes
+- [Project Notes](./PROJECT_NOTES.md)
